@@ -1,0 +1,6 @@
+{
+  "name": "Sparkshelf — Digital Goods & Subscriptions",
+  "description": "Official digital supplier for verified software licenses, creative subscriptions, templates, and courses with instant WhatsApp checkout and guaranteed genuine licenses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
